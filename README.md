@@ -11,7 +11,7 @@
 
 Результат:
 
-[Kaggle Leaderboard](https://www.kaggle.com/c/yellowtaxi/leaderboard): Grigoriy Gusarov, Score = 14.44716
+[Kaggle Leaderboard](https://www.kaggle.com/c/yellowtaxi/leaderboard): Grigoriy Gusarov, Score = 14.44715
 
 ![](https://github.com/Gooogr/Coursera_Yandex_Taxi/blob/master/maps1.gif)
 
